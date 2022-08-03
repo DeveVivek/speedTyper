@@ -12,3 +12,5 @@ Game to beat the clock by typing random words
 - Store difficulty setting in local storage
 
 
+
+
